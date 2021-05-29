@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Run a Ultramaraton",
+      "details": "Lorem ipsum Create new home page bannerCreate new home page bannerttt",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Run a 100 miles race",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "title": "Visit Machu Pichu",
+      "details": "aa",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Live in Barcelona",
+      "details": "new",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "Learn to surf",
+      "details": "aaa",
+      "complete": false,
+      "id": 5
+    }
+  ]
+}
